@@ -864,7 +864,7 @@
     "campaign": "Fall of Cadia",
     "campaignType": "Normal",
     "nodeNumber": 66,
-    "reward": "Repair Tool",
+    "reward": "Repair-Kit",
     "expectedGold": 77
   },
   "FoC67": {
@@ -1718,7 +1718,7 @@
     "campaign": "Saim-Hann",
     "campaignType": "Normal",
     "nodeNumber": 40,
-    "reward": "Repair Tool",
+    "reward": "Repair-Kit",
     "expectedGold": 65
   },
   "SH41": {
@@ -3622,7 +3622,7 @@
     "campaign": "Indomitus Elite",
     "campaignType": "Elite",
     "nodeNumber": 15,
-    "reward": "Repair Tool",
+    "reward": "Repair-Kit",
     "expectedGold": 91.5
   },
   "IE16": {
